@@ -30,7 +30,7 @@
 - 🔹 Computer Networks
 
 - ## Top Languages
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnanyaSinha07&layout=compact)
+- ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AnanyaSinha07&layout=compact)
 
 - ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/ananya-sinha07
